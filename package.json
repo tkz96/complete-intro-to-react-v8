@@ -1,0 +1,28 @@
+{
+  "name": "complete-intro-to-react-v8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js, jsx, ts, tsx}\"",
+    "lint": "eslint \"src/**/*.{js, jsx, ts, tsx}\" --quiet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkz96/complete-intro-to-react-v8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkz96/complete-intro-to-react-v8/issues"
+  },
+  "homepage": "https://github.com/tkz96/complete-intro-to-react-v8#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.7.1"
+  }
+}
+ 
